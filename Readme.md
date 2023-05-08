@@ -1,33 +1,33 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+Anish....;Flutter+developer...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+Anish....;Java+developer...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish&label=Profile%20views&color=0e75b6&style=flat" alt="arun" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anish&label=Profile%20views&color=0e75b6&style=flat" alt="Anish" /> </p>
 
-<h5 align="center">
+<!-- <h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/" title="LinkedIn Profile"><img width="22" src="svg/linkedin-svgrepo-com.svg"> LinkedIn</a></code>
   <code><a href="https://leetcode.com/" title="LeetCode Profile"><img width="22" src="svg/leetcode.svg"> LeetCode</a></code>
  
-</h5>
+</h5> -->
 <h5 align="center">
   <code><a href="https://" title="Portfolio"> 👑Portfolio👑</a></code>
 </h5>
 
 <p align="center">
-  Hi, I'm Anish, A Flutter Developer from India
+  Hi, I'm Anish, A Java Developer from India
   <br>
   <br>
   🎓 I'm currently pursuing from V.S.B. Engineering College, Karur In B.E(CSE)
   <br>
-  💻 I love creating Wondering things using Flutter.
+  💻 I love creating Wondering things.
   <br>
   <!-- 📫 My Portfolio: <a href=" ">Feel Free To Contact Me</a> -->
 </p>
 
-<hr>
+<!-- <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
@@ -43,7 +43,7 @@
  <code><img title="Flutter" height="25" src="svg/flutter.png"></code>
 
 </p>
-<hr>
+<hr> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -51,28 +51,28 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Arun100203&theme=react&border=61dafb&hide_border=true" alt="Arun" />
+      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Anish-Anish&theme=react&border=61dafb&hide_border=true" alt="Anish" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Arun100203&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Anish-Anish&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arun100203&theme=react&hide=c%23&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anish-Anish&theme=react&hide=c%23&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Arun100203&theme=react&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Anish-Anish&theme=react&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <div align="center">
   
 ## 🏆GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=arun100203&theme=tokyonight&column=7&margin-w=9&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Anish-Anish&theme=tokyonight&column=7&margin-w=9&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ### ✍️Random Dev Quote
 
 
@@ -81,7 +81,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Arun100203/amazon_ui_clone" title="amazon-clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=amazon_ui_clone&theme=react&border_color=61dafb&border_radius=10"></a>
@@ -96,5 +96,5 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/Arun100203/Age_Calculator" title="Age_Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=Age_Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Arun100203/todo-flutter" title="todo-flutter"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=todo-flutter&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+</div> -->
 <br/><br/><br/><br/><br/><br/>
