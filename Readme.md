@@ -17,7 +17,7 @@
 </h5>
 
 <p align="center">
-  Hi, I'm Anish, A Java Developer from India
+  Hi, I'm Anish, A Node & Java Developer from India
   <br>
   <br>
   🎓 I'm currently pursuing from V.S.B. Engineering College, Karur In B.E(CSE)
