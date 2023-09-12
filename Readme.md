@@ -22,7 +22,7 @@
   <br>
   🎓 I'm currently pursuing from V.S.B. Engineering College, Karur In B.E(CSE)
   <br>
-  💻 I love creating Wondering things.
+  💻 I love creating Wondering Things.
   <br>
   <!-- 📫 My Portfolio: <a href=" ">Feel Free To Contact Me</a> -->
 </p>
@@ -89,7 +89,6 @@
 </div>
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
-  <a align="left" href="https://github.com/Arun100203/Arun100203.github.io" title="portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=Arun100203.github.io&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/Arun100203/leetcode" title="leetcode"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=leetcode&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
