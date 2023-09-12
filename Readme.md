@@ -1,49 +1,22 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,There!+👋;This+is+Anish....;Node.js+developer...;Java+developer...;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello%2C+There!+👋;This+is+Anish....;Node.js+developer...;Java+developer...;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anish&label=Profile%20views&color=0e75b6&style=flat" alt="Anish" /> </p>
 
-<!-- <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/" title="LinkedIn Profile"><img width="22" src="svg/linkedin-svgrepo-com.svg"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/" title="LeetCode Profile"><img width="22" src="svg/leetcode.svg"> LeetCode</a></code>
- 
-</h5> -->
 <h5 align="center">
   <code><a href="https://anish2002.netlify.app" title="Portfolio"> 👑Portfolio👑</a></code>
 </h5>
 
 <p align="center">
-  Hi, I'm Anish, A Node & Java Developer from India
+  Hi, I'm Anish, a Node & Java Developer from India.
   <br>
+  🎓 I'm currently pursuing B.E(CSE) at V.S.B. Engineering College, Karur.
   <br>
-  🎓 I'm currently pursuing from V.S.B. Engineering College, Karur In B.E(CSE)
-  <br>
-  💻 I love creating Wondering Things.
-  <br>
-  <!-- 📫 My Portfolio: <a href=" ">Feel Free To Contact Me</a> -->
+  💻 I love creating wonderful things.
 </p>
-
-<!-- <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
-<p align="center">
-
-<code><img title="Problem Solving" height="25" src="svg/problemSolving.png"></code>
-<code><img title="HTML5" height="25" src="svg/html5.svg"></code>
-<code><img title="CSS" height="25" src="svg/css.svg"></code>
-<code><img title="Java" height="25" src="svg/java-original.svg"></code>
-
-<code><img title="Git" height="25" src="svg/git-original.svg"></code>
-<code><img title="Visual Studio Code" height="25" src="svg/vscode.png"></code>
-<code><img title="GitHub" height="25" src="svg/github (1).svg"></code>
- <code><img title="Flutter" height="25" src="svg/flutter.png"></code>
-
-</p>
-<hr> -->
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -75,25 +48,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=Anish-Anish&theme=tokyonight&column=7&margin-w=9&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 ### ✍️Random Dev Quote
 
-
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 </div>
 
 <hr>
-
-<!-- <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-<br>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Arun100203/amazon_ui_clone" title="amazon-clone"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=amazon_ui_clone&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" https://github.com/Arun100203/tic_tac-toe" title="tic_tac-toe"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=tic_tac-toe&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/Arun100203/leetcode" title="leetcode"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=leetcode&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
-<br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/Arun100203/Age_Calculator" title="Age_Calculator"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=Age_Calculator&theme=react&border_color=61dafb&border_radius=10"></a>
-  <a align="right" href="https://github.com/Arun100203/todo-flutter" title="todo-flutter"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Arun100203&repo=todo-flutter&theme=react&border_color=61dafb&border_radius=10"></a>
-</div> -->
-<br/>
