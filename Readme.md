@@ -21,10 +21,6 @@
 <p align="left">
 <a href="https://www.instagram.com/thi_dark_sun/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thi_dark_sun/" height="30" width="40" /></a>
 
-<a href="https://api.whatsapp.com/send?phone=" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
-</a>
-
 <a href="https://api.whatsapp.com/send?phone=7904259235&text=Hello Anish, I'm :  !" target="_blank" class="button button__small button__gray">
      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="40" />
 </a>
