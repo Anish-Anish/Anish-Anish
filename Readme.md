@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anish-anish&label=Profile%20views&color=0e75b6&style=flat" alt="anish-anish" /> </p>
 
-<p align="center">🔭 I’m currently working on <b>Flutter </b></p>
+<p align="center">🔭 I’m currently working on <b>Fullstack development</b></p>
 
 <p align="center">🌱 I’m currently learning <b>Flutter </b></p>
 
