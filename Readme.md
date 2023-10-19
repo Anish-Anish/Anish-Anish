@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anish-anish&label=Profile%20views&color=0e75b6&style=flat" alt="anish-anish" /> </p>
 
-- 🔭 I’m currently working on **Flutter** 
+<div style="text-align: center">- 🔭 I’m currently working on **Flutter** 
 
 - 🌱 I’m currently learning **Flutter**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **anishiv2002@gmail.com**
 
-- ⚡ Fun fact about me **I've cracked the code to being a master of computer science.**
+- ⚡ Fun fact about me **I've cracked the code to being a master of computer science.**</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
