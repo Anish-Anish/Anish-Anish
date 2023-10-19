@@ -10,7 +10,7 @@
 
 - 💥 Portfolio [anishv.me](anishv.me)
 
-- 💬 Ask me about **Futter & Node**
+- 💬 Ask me about **Flutter & Node**
 
 - 📫 How to reach me **anishiv2002@gmail.com**
 
