@@ -81,5 +81,12 @@
 
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-anish&show_icons=true&locale=en&layout=compact" alt="anish-anish" /></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-anish&" alt="anish-anish" /></p>
+ 
 </div>
+
+
+<div align="center">
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-anish&show_icons=true&locale=en&layout=compact" alt="anish-anish" /></p>
+ 
+</div>
+
