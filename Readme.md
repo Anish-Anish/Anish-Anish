@@ -7,11 +7,11 @@
 
 <p align="center">🌱 I’m currently learning <b>Flutter </b></p>
 
-<p align="center">💥 Portfolio <a href="https://anishv.me"></p>
+<p align="center">💥 Portfolio Anishv.me ></p>
 
 <p align="center">💬 Ask me about<b>Flutter & Node</b></p>
 
-<p align="center">📫 How to reach me <a href="anishiv2002@gmail.com"> </p>
+<p align="center">📫 How to reach me anishiv2002@gmail.com </p>
 
 <p align="center">⚡ Fun fact about me <b>I think I'm Talkative</b></p>
 
