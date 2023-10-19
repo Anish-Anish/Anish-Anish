@@ -21,8 +21,7 @@
 <a href="https://instagram.com/https://www.instagram.com/thi_dark_sun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/thi_dark_sun/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div style="display: flex; justify-content: center; width: 100%;">
   <a href="https://developer.android.com" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
   </a>
@@ -50,7 +49,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer" class="icon-container">
+  <a href="https://www.java.com" target="_blank" rel="noreferrer" class "icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" class="icon-container">
@@ -74,7 +73,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer" class="icon-container">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-</p>
+</div>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-anish&show_icons=true&locale=en&layout=compact" alt="anish-anish" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-anish&" alt="anish-anish" /></p>
