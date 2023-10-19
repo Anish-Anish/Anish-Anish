@@ -3,18 +3,17 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anish-anish&label=Profile%20views&color=0e75b6&style=flat" alt="anish-anish" /> </p>
 
-<h3 align="center">🔭 I’m currently working on <b>Flutter </b></h3>
+<p align="center">🔭 I’m currently working on <b>Flutter </b></p>
 
+<p align="center">🌱 I’m currently learning <b>Flutter </b></p>
 
-- 🌱 I’m currently learning **Flutter**
+<p align="center">💥 Portfolio <a href="https://anishv.me"></p>
 
-- 💥 Portfolio [anishv.me](anishv.me)
+<p align="center">💬 Ask me about<b>Flutter & Node</b></p>
 
-- 💬 Ask me about **Flutter & Node**
+<p align="center">📫 How to reach me <a href="anishiv2002@gmail.com"> </p>
 
-- 📫 How to reach me **anishiv2002@gmail.com**
-
-- ⚡ Fun fact about me **I've cracked the code to being a master of computer science.**
+<p align="center">⚡ Fun fact about me <b>I think I'm Talkative</b></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
