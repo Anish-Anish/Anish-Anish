@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=anish-anish&label=Profile%20views&color=0e75b6&style=flat" alt="anish-anish" /> </p>
 
-<p align="center">🔭 I’m currently working on <b>Web development</b></p>
+
 
 <p align="center">🌱 I’m currently learning <b>Flutter </b></p>
 
 <p align="center">💥 Portfolio <a href="https://anishv.me">Anishv.me</a></p>
 
-<p align="center">💬 Ask me about<b> Flutter & Node</b></p>
+<p align="center">💬 Ask me about<b> React & Node</b></p>
 
 <p align="center">📫 How to reach me <a href="mailto:anishiv2002@gmail.com">anishiv2002@gmail.com</a></p>
 
