@@ -17,7 +17,7 @@
 
 <p align="center">⚡ Fun fact about me <b>I think I'm Talkative</b></p>
 
-<h3 align="center">Connect with me:</h3>
+
 
                
 
