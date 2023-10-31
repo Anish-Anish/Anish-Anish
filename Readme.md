@@ -5,7 +5,7 @@
 
 
 
-<p align="center">🌱 I’m currently learning <b>Flutter </b></p>
+<p align="center">🌱 I’m currently learning <b>React.js </b></p>
 
 <p align="center">💥 Portfolio <a href="https://anishv.me">Anishv.me</a></p>
 
