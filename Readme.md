@@ -9,7 +9,7 @@
 
 <p align="center">💥 Portfolio <a href="https://anishv.me">Anishv.me</a></p>
 
-<p align="center">💬 Ask me about<b> Node.js</b></p>
+<p align="center">💬 Ask me about<b> Express.js & Node.js</b></p>
 
 <p align="center">📫 How to reach me <a href="mailto:anishiv2002@gmail.com">anishiv2002@gmail.com</a></p>
 
