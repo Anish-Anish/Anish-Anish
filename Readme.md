@@ -25,10 +25,11 @@
 
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" 
-         alt="android" width="40" height="40" style="text-decoration: none;"/>
-</a>&nbsp;
+<a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
+         alt="AI/ML" width="40" height="40" style="text-decoration: none;"/>
+</a>
+&nbsp;
 
 <a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
