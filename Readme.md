@@ -26,15 +26,15 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 <a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Artificial_Intelligence_%26_Machine_Learning.png" 
          alt="AI/ML" width="40" height="40" style="text-decoration: none;"/>
+</a>&nbsp;
+
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" 
+         alt="Machine Learning" width="40" height="40" style="text-decoration: none;"/>
 </a>
 &nbsp;
-
-<a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
-         alt="AI/ML" width="40" height="40" style="text-decoration: none;"/>
-</a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;
