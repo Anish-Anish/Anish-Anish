@@ -26,7 +26,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <div align="center">
 <a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Artificial_Intelligence_%26_Machine_Learning.png" 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
          alt="AI/ML" width="40" height="40" style="text-decoration: none;"/>
 </a>&nbsp;
 
