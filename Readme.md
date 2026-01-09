@@ -1,68 +1,99 @@
 <h1 align="center">Hi 👋, I'm Anish</h1>
-<h3 align="center">A passionate Web developer from India</h3>
+<h3 align="center">
+Agentic AI Systems Engineer • GenAI Developer • AI Product Builder
+</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=anish-anish&label=Profile%20views&color=0e75b6&style=flat" alt="anish-anish" /> </p>
+<p align="center">
+I design and build <b>tool-driven, multi-agent AI systems</b> that think, plan, and act.<br/>
+From LLM orchestration to real-world AI platforms — I turn ideas into working intelligence.
+</p>
 
+<p align="center">
+  <a href="https://anishv.me" target="_blank"><b>🌐 Portfolio</b></a> •
+  <a href="https://linkedin.com/in/anish-anish" target="_blank"><b>💼 LinkedIn</b></a> •
+  <a href="mailto:anishiv2002@gmail.com"><b>📧 Email</b></a>
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anish-anish&label=Profile%20views&color=0e75b6&style=flat" alt="anish-anish" />
+</p>
 
-<p align="center">🌱 I’m currently learning <b>React.js </b></p>
+---
 
-<p align="center">💥 Portfolio <a href="https://anishv.me">Anishv.me</a></p>
+### 🚀 What I Do
 
-<p align="center">💬 Ask me about<b> Express.js & Node.js</b></p>
+- 🧠 Build **Agentic AI systems** using LangGraph, MCP, and LLM tool-calling  
+- 🔗 Design **RAG pipelines** with MongoDB, FAISS, and hybrid retrieval  
+- 🧩 Create **MCP servers** with reusable, composable AI tools  
+- 📊 Enable **LLM-driven data analytics & visualization**
+- ⚙️ Architect **planner → executor → validator** AI workflows  
+- 🏗️ Engineer **production-grade AI backends** with Python & FastAPI-style systems  
 
-<p align="center">📫 How to reach me <a href="mailto:anishiv2002@gmail.com">anishiv2002@gmail.com</a></p>
+---
 
+### 🧠 Current Tech Stack
 
+#### 🤖 AI / GenAI
+- LLMs (Open-source & hosted)
+- LangChain
+- LangGraph
+- MCP (Model Context Protocol)
+- Tool-based reasoning
+- Multi-Agent Supervisor systems
+- Human-in-the-Loop (HITL)
 
-<p align="center">⚡ Fun fact about me <b>I think I'm Talkative</b></p>
+#### 🗄️ Data & Retrieval
+- MongoDB
+- Redis + RedisJSON
+- FAISS
+- Pandas (DataFrame-first design)
+- SQL → DataFrame abstractions
+- Cypher & Gremlin (graph queries)
 
+#### 🧪 Backend & Systems
+- Python (Advanced / Async)
+- FastAPI-style APIs
+- MCP Server Architecture
+- Tool registries & DAG execution
+- JPype (Python ↔ Java integration)
+- Open-source LLM deployment (Groq, Ollama, Hugging Face)
 
+#### 📊 Analytics & Visualization
+- LLM-based chart selection
+- Bar / Line / Scatter automation
+- Business analytics pipelines
+- Data profiling (ydata-profiling)
 
-               
+---
 
+### 🧩 Featured Projects (Conceptual)
 
+- 🔹 **MCP Server for DataFrame Operations**  
+  LLM decides & chains tools over structured datasets
 
-<h3 align="center">Languages and Tools:</h3>
-<div align="center">
-<a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
-         alt="AI/ML" width="40" height="40" style="text-decoration: none;"/>
-</a>&nbsp;
+- 🔹 **Multi-Agent AI Orchestrator**  
+  Supervisor-driven agents for real-world workflows
 
-<a href="https://ai.google.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" 
-         alt="AI/ML" width="40" height="40" style="text-decoration: none;"/>
-</a>
+- 🔹 **Hybrid RAG System**  
+  MongoDB + FAISS + relevance scoring
 
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;
-  <a href="https://www.figma.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
-  <a href="https://www.w3.org/html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
-  <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
-  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;&nbsp;
-  <a href="https://pugjs.org" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40" style="text-decoration: none;"/></a>&nbsp;
-  <a href="https://reactjs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="text-decoration: none;"/></a>
-</div>
+- 🔹 **Cypher → Gremlin Translation API**  
+  Cross-graph query execution engine
 
+---
 
+### 📈 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-anish&show_icons=true&locale=en&layout=compact" alt="anish-anish" />
+</p>
 
-<div align="center" padding-top: 10px>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anish-anish&show_icons=true&locale=en&layout=compact" alt="anish-anish" /></p>
- 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anish-anish" alt="anish" />
+</p>
 
+---
 
-<div align="center">
-   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anish-anish&" alt="anish" /></p>
-</div>
+### ⚡ Fun Fact
 
+> I don’t just use AI — I **orchestrate intelligence**.
